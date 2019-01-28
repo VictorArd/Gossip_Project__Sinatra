@@ -12,4 +12,4 @@
   </ul>
 </h5>
 
-  <img src="https://i2.wp.com/laboate.com/next3/wp-content/uploads/2018/05/hacking-project.png?fit=240%2C239" alt="logoTHP">
+  <img src="https://www.thehackingproject.org/packs/packs/static_pages/assets/images/logo_black-3d6bec995368618a7e9f44536410ae0a.png" alt="logoTHP">
